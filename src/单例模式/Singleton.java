@@ -102,6 +102,7 @@ public class Singleton {
      * 绝对防止多次实例化，即使面对复杂的序列化或者反射攻击的时候，防止反射构造对象
      * 缺点是没有使用懒加载
      * 单元素的枚举类型已经成为实现Singleton的最佳方法
+     * 调用对象: SingletonEnum.INSTANCE;
      */
     public enum SingletonEnum {
         INSTANCE;
