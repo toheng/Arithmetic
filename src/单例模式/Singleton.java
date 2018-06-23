@@ -1,10 +1,10 @@
-package Singleton;
+package 单例模式;
 
 /**
  * @author: Hengo
  * @date: 2018/6/23 13:42
  */
-public class 单例模式 {
+public class Singleton {
 
     /**
      * 懒汉模式
