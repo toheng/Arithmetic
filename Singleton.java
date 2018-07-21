@@ -1,5 +1,3 @@
-package 单例模式;
-
 /**
  * @author: Hengo
  * @date: 2018/6/23 13:42
