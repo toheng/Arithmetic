@@ -4,6 +4,7 @@
 3. [用两个栈实现队列](https://github.com/toheng/Arithmetic/blob/master/Solution3.java)
 4. [栈的压入，弹出序列](https://github.com/toheng/Arithmetic/blob/master/Solution4.java)
 5. [把二叉树打印成多行](https://github.com/toheng/Arithmetic/blob/master/Solution5.java)
+6. [调整数组中奇偶数字的顺序](https://github.com/toheng/Arithmetic/blob/master/Solution6.java)
 
 # 设计模式
 1. [单例模式](https://github.com/toheng/Arithmetic/blob/master/Singleton.java)
