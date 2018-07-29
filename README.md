@@ -6,6 +6,7 @@
 5. [把二叉树打印成多行](https://github.com/toheng/Arithmetic/blob/master/Solution5.java)
 6. [调整数组中奇偶数字的顺序](https://github.com/toheng/Arithmetic/blob/master/Solution6.java)
 7. [包含main函数的栈](https://github.com/toheng/Arithmetic/blob/master/Solution7.java)
+8. [顺时针打印矩阵](https://github.com/toheng/Arithmetic/blob/master/Solution8.java)
 
 # 设计模式
 1. [单例模式](https://github.com/toheng/Arithmetic/blob/master/Singleton.java)
