@@ -9,6 +9,7 @@
 8. [顺时针打印矩阵](https://github.com/toheng/Arithmetic/blob/master/Solution8.java)
 9. [字符串的排列](https://github.com/toheng/Arithmetic/blob/master/Solution9.java)
 10. [正则表达式匹配](https://github.com/toheng/Arithmetic/blob/master/Solution10.java)
+10. [数组中出现次数超过一半的数字](https://github.com/toheng/Arithmetic/blob/master/Solution11.java)
 
 # 设计模式
 1. [单例模式](https://github.com/toheng/Arithmetic/blob/master/Singleton.java)
