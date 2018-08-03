@@ -10,6 +10,7 @@
 9. [字符串的排列](https://github.com/toheng/Arithmetic/blob/master/Solution9.java)
 10. [正则表达式匹配](https://github.com/toheng/Arithmetic/blob/master/Solution10.java)
 10. [数组中出现次数超过一半的数字](https://github.com/toheng/Arithmetic/blob/master/Solution11.java)
+10. [翻转单词顺序列](https://github.com/toheng/Arithmetic/blob/master/Solution12.java)
 
 # 设计模式
 1. [单例模式](https://github.com/toheng/Arithmetic/blob/master/Singleton.java)
