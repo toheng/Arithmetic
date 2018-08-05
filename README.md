@@ -12,6 +12,7 @@
 11. [数组中出现次数超过一半的数字](https://github.com/toheng/Arithmetic/blob/master/Solution11.java)
 12. [翻转单词顺序列](https://github.com/toheng/Arithmetic/blob/master/Solution12.java)
 13. [回文序列](https://github.com/toheng/Arithmetic/blob/master/Solution13.java)
+13. [数组中重复的数字](https://github.com/toheng/Arithmetic/blob/master/Solution14.java)
 
 # 设计模式
 1. [单例模式](https://github.com/toheng/Arithmetic/blob/master/Singleton.java)
