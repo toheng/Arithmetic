@@ -13,6 +13,7 @@
 12. [翻转单词顺序列](https://github.com/toheng/Arithmetic/blob/master/Solution12.java)
 13. [回文序列](https://github.com/toheng/Arithmetic/blob/master/Solution13.java)
 13. [数组中重复的数字](https://github.com/toheng/Arithmetic/blob/master/Solution14.java)
+13. [把数组排成最小的数](https://github.com/toheng/Arithmetic/blob/master/Solution15.java)
 
 # 设计模式
 1. [单例模式](https://github.com/toheng/Arithmetic/blob/master/Singleton.java)
