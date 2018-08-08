@@ -12,8 +12,9 @@
 11. [数组中出现次数超过一半的数字](https://github.com/toheng/Arithmetic/blob/master/Solution11.java)
 12. [翻转单词顺序列](https://github.com/toheng/Arithmetic/blob/master/Solution12.java)
 13. [回文序列](https://github.com/toheng/Arithmetic/blob/master/Solution13.java)
-13. [数组中重复的数字](https://github.com/toheng/Arithmetic/blob/master/Solution14.java)
-13. [把数组排成最小的数](https://github.com/toheng/Arithmetic/blob/master/Solution15.java)
+14. [数组中重复的数字](https://github.com/toheng/Arithmetic/blob/master/Solution14.java)
+15. [把数组排成最小的数](https://github.com/toheng/Arithmetic/blob/master/Solution15.java)
+16. [左旋转字符串](https://github.com/toheng/Arithmetic/blob/master/Solution16.java)
 
 # 设计模式
 1. [单例模式](https://github.com/toheng/Arithmetic/blob/master/Singleton.java)
