@@ -1,13 +1,14 @@
+package java;
+
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.Queue;
+
 /**
  * 把二叉树打印成多行
  * 题目描述：
  * 从上到下按层打印二叉树，同一层结点从左至右输出。每一层输出一行。
  */
-
-import java.util.ArrayList;
-import java.util.Queue;
-import java.util.LinkedList;
-
 public class Solution5 {
     ArrayList<ArrayList<Integer>> Print(TreeNode pRoot) {
         ArrayList<ArrayList<Integer>> list = new ArrayList<>();
@@ -46,4 +47,15 @@ public class Solution5 {
         }
         return list;
     }
+
+    public class TreeNode {
+        int val = 0;
+        TreeNode left = null;
+        TreeNode right = null;
+
+        public TreeNode(int val) {
+            this.val = val;
+        }
+    }
+
 }

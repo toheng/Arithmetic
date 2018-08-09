@@ -1,3 +1,5 @@
+package java;
+
 import java.util.Stack;
 import java.util.Iterator;
 
@@ -8,6 +10,7 @@ import java.util.Iterator;
  */
 public class Solution7 {
     Stack<Integer> stack = new Stack<>();
+
     public void push(int node) {
         stack.push(node);
     }

@@ -1,3 +1,5 @@
+package java;
+
 import java.util.List;
 import java.util.Collections;
 import java.util.ArrayList;
@@ -9,7 +11,7 @@ import java.util.ArrayList;
  */
 public class Solution9 {
     public static void main(String[] args) {
-        Solution p = new Solution();
+        Solution9 p = new Solution9();
         System.out.println(p.Permutation("abc").toString());
     }
 
