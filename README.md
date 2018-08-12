@@ -15,6 +15,8 @@
 14. [数组中重复的数字](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution14.java)
 15. [把数组排成最小的数](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution15.java)
 16. [左旋转字符串](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution16.java)
+17. [调整数组顺序使奇数位于偶数前面](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution17.java)
+18. [合并两个排序的链表](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution18.java)
 
 # 设计模式
 1. [单例模式](https://github.com/toheng/Arithmetic/blob/master/src/java/Singleton.java)
