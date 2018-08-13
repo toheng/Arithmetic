@@ -1,5 +1,3 @@
-package java;
-
 /**
  * 翻转单词顺序列
  * 题目描述：比如 student. a am I 转换为 I am a student.
