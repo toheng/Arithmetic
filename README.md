@@ -18,6 +18,7 @@
 17. [调整数组顺序使奇数位于偶数前面](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution17.java)
 18. [合并两个排序的链表](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution18.java)
 19. [随机数去重排序](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution19.java)
+20. [字符串分隔](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution20.java)
 
 # 设计模式
 1. [单例模式](https://github.com/toheng/Arithmetic/blob/master/src/java/Singleton.java)
