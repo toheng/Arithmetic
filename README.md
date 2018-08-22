@@ -20,6 +20,7 @@
 19. [随机数去重排序](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution19.java)
 20. [字符串分隔](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution20.java)
 21. [平衡二叉树](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution21.java)
+22. [最小的K个数](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution22.java)
 
 # 设计模式
 1. [单例模式](https://github.com/toheng/Arithmetic/blob/master/src/java/Singleton.java)
