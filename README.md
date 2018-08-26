@@ -22,7 +22,9 @@
 21. [平衡二叉树](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution21.java)
 22. [最小的K个数](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution22.java)
 23. [查找两个字符串a,b中的最长公共子串](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution23.java)
-23. [按字节截取字符串](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution24.java)
+24. [按字节截取字符串](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution24.java)
+25. [跳台阶](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution25.java)
+26. [single-number](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution26.java)
 
 # 设计模式
 1. [单例模式](https://github.com/toheng/Arithmetic/blob/master/src/java/Singleton.java)
