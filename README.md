@@ -1,4 +1,4 @@
-# 算法
+# 🍓算法
 1. [从头到尾打印链表](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution.java)
 2. [数组中的查找](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution2.java)
 3. [用两个栈实现队列](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution3.java)
@@ -26,8 +26,9 @@
 25. [跳台阶](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution25.java)
 26. [single-number](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution26.java)
 27. [括号生成](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution27.java)
+28. [合并两个排序的链表](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution28.java)
 
-# 设计模式
+# 🍉设计模式
 1. [单例模式](https://github.com/toheng/Arithmetic/blob/master/src/java/Singleton.java)
 
 > 持续更新中……
