@@ -27,6 +27,7 @@
 26. [single-number](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution26.java)
 27. [括号生成](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution27.java)
 28. [合并两个排序的链表](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution28.java)
+29. [删除链表中重复的节点](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution29.java)
 
 # 🍉设计模式
 1. [单例模式](https://github.com/toheng/Arithmetic/blob/master/src/java/Singleton.java)
