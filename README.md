@@ -30,6 +30,7 @@
 29. [删除链表中重复的节点](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution29.java)
 30. [两数之和](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution30.java)
 31. [Leetcode-有效的括号](https://github.com/toheng/Arithmetic/blob/master/src/java/Solution31.java)
+32. [LeetCode-合并k个排序链表，返回合并后的排序链表。请分析和描述算法的复杂度。](https://github.com/toheng/Arithmetic/commit/6884be10ccb0048fd0d81c7656d038256036e88b)
 
 # 🍉设计模式
 1. [单例模式](https://github.com/toheng/Arithmetic/blob/master/src/java/Singleton.java)
